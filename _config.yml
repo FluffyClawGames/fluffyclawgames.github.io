@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Follow Fluffy Claw Games! DevLogs, blogs, and sneak peak clips of coming games!
 twitter_username: fluffyclawgames
 github_username: zilharr
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
