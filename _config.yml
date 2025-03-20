@@ -58,14 +58,23 @@ plugins:
 author:
   name   : "Zilharr"
   avatar : "/assets/images/logo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : | 
+    Hobbyist gamedev homebrewing my way into Indie gamedev.
+    Follow along as I make games and blog my experiences.
   links:
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/fluffyclawgames/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/FluffyClawGames"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com"
+    
 
 footer:
   links:
