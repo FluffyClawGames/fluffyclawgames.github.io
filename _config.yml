@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en-US"
+logo: "/assets/images/meme_logo.png"
 title: Fluffy Claw Games
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Follow Fluffy Claw Games! DevLogs, blogs, and sneak peak clips of coming games!
+url: "http://fluffyclawgames.github.io"
 twitter_username: fluffyclawgames
 github_username: zilharr
 minimal_mistakes_skin: neon
@@ -80,10 +83,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/fluffyclawgames/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/FluffyClawGames"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
