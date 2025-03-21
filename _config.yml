@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.jpg"
 google-site-verification: "google17f0c902f0398576.html"
 title: Fluffy Claw Games
 email:
@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Zilharr"
-  avatar : "/assets/images/meme_logo.jpg"
+  avatar : "/assets/images/meme_logo.png"
   bio    : | 
     Hobbyist gamedev homebrewing my way into Indie gamedev.
     Follow along as I make games and blog my experiences.
