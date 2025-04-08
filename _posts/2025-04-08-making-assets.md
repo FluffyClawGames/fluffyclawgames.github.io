@@ -1,7 +1,7 @@
 ---
 title: "Making Assets"
 author: Zilharr
-layout: post
+layout: single
 image: /assets/images/bruhcrab.png
 excerpt: "A short reflection on the early stages of creating art assets for my game."
 categories: [blog, gamedev]
