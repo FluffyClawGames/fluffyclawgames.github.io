@@ -20,7 +20,7 @@ as a glorified meme machine, I do not have much of a background in game developm
 Now I know everybody and their brother tells every new developer to go to [Itch.io](https://itch.io/) and find some
 free assets just to get the ball-rolling. The major reason being that getting comfortable with the game engine
 is the most important thing at this stage and I generally agree with this sentiment. However, I didn't do this.
-I spent $20 on Aseprite several years ago and I want to get my monies worth <img src="assets/images/super_bruh.png" alt="super_bruh" width="32" height="32" />.
+I spent $20 on Aseprite several years ago and I want to get my monies worth <img src="/assets/images/super_bruh.png" alt="super_bruh" width="32" height="32" />.
 
 I decided to "git gud" at first since the centerpoint of any game seems to be the player sprite. I fired up Aseprite
 and opened up YouTube where pretty quickly I found a short by [Lukas Irzl](https://www.youtube.com/watch?v=aLPPSjmRQgc)
@@ -29,6 +29,6 @@ a game in pixel artstyle.
 
 After a number of hours (not continuous) I came up with the following
 
-<img src="assets/images/2025_04_08_16_21_15_player.aseprite_Aseprite_v1.3.13.png" alt="player spritesheet with various defined directions" width="240" height="128" />
+<img src="/assets/images/2025_04_08_16_21_15_player.aseprite_Aseprite_v1.3.13.png" alt="player spritesheet with various defined directions" width="240" height="128" />
 
 
