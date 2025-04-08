@@ -29,6 +29,6 @@ a game in pixel artstyle.
 
 After a number of hours (not continuous) I came up with the following
 
-<img src="/assets/images/2025_04_08_16_21_15_player.aseprite_Aseprite_v1.3.13.png" alt="player spritesheet with various defined directions" width="240" height="128" />
+<img src="/assets/images/2025_04_08_16_21_15_player.aseprite_Aseprite_v1.3.13.png" alt="player spritesheet with various defined directions" width="480" height="256" />
 
 
