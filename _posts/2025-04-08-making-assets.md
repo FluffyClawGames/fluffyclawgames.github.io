@@ -31,6 +31,10 @@ After a number of hours (not continuous) I came up with the following:
 
 <img src="/assets/images/2025_04_08_16_21_15_player.aseprite_Aseprite_v1.3.13.png" alt="player spritesheet with various defined directions" width="480" height="256" />
 
-I ventured on to making Tilesets with common landscapes like dirt and grass. By this time I was I fairly comfortable with Aseprite so these went much faster.
+I ventured on to making Tilesets with common landscapes like dirt and grass. By this time I was fairly comfortable with Aseprite so these went much faster.
 
-<img src="/assets/images/2025_04_08_16_38_30_dirt.png" alt="dirt spritesheet" width="240" height="240" /> <img src="/assets/images/2025_04_08_16_39_21_grass.png" alt="grass spritesheet" width="240" height="240" />
+<img src="/assets/images/2025_04_08_16_38_30_dirt.png" alt="dirt spritesheet" width="240" height="240" />       <img src="/assets/images/2025_04_08_16_39_21_grass.png" alt="grass spritesheet" width="240" height="240" />
+
+All-in-all it came out pretty good considering I haven't been doing this seriously for very long <img src="/assets/images/crab skurred.png" alt="crab skurred" width="32" height="32" />  <img src="/assets/images/crab skurred_r.png" alt="crab skurred right" width="32" height="32" />.
+
+<img src="/assets/images/2025_04_08_16_45_11_in_game.png" alt="player spritesheet with various defined directions" width="480" height="256" />
