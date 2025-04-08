@@ -30,17 +30,25 @@ a game in pixel artstyle.
 After a number of hours (not continuous) I came up with the following:
 
 <p style="text-align: center;">
-    <img src="/assets/images/2025_04_08_16_21_15_player.aseprite_Aseprite_v1.3.13.png" alt="player spritesheet with various defined directions" width="480" height="256" />
+    <img src="/assets/images/2025_04_08_16_21_15_player.aseprite_Aseprite_v1.3.13.png" alt="player sprite sheet with various defined directions" width="480" height="256" />
 </p>
 
 I ventured on to making Tilesets with common landscapes like dirt and grass. By this time I was fairly comfortable with Aseprite so these went much faster.
 
 <p style="text-align: center;">
-    <img src="/assets/images/2025_04_08_16_38_30_dirt.png" alt="dirt spritesheet" width="240" height="240" style="margin-right: 10px;" /><img src="/assets/images/2025_04_08_16_39_21_grass.png" alt="grass spritesheet" width="240" height="240" />
+    <img src="/assets/images/2025_04_08_16_38_30_dirt.png" alt="dirt sprite sheet" width="240" height="240" style="margin-right: 20px;" /><img src="/assets/images/2025_04_08_16_39_21_grass.png" alt="grass sprite sheet" width="240" height="240" />
 </p>
 
 All-in-all it came out pretty good considering I haven't been doing this seriously for very long <img src="/assets/images/crab skurred_r.png" alt="crab skurred" width="32" height="32" />  <img src="/assets/images/crab skurred.png" alt="crab skurred right" width="32" height="32" />.
 
 <p style="text-align: center;">
-    <img src="/assets/images/2025_04_08_16_45_11_in_game.png" alt="player spritesheet with various defined directions" width="480" height="256" />
+    <img src="/assets/images/2025_04_08_16_45_11_in_game.png" alt="player sprite sheet with various defined directions" width="480" height="256" />
 </p>
+
+### <img src="/assets/images/giga_crab.png" alt="giga crab" width="32" height="32" />  *Conclusion*
+
+I'm enjoying my time with the art and I've been using [Godot](https://godotengine.org/) as my engine. I haven't delved too far into Godot because I spent most of my free time working on the assets. I'll be changing that soon when I implement more features in my game besides some pretty grass and a thicc player sprite bouncing around the screen. What's next?
+
+ - Enemy sprite (probably a cute slime)
+ - Introducing enemy pathing
+ - Update player sprite sheet with attack poses and additional movements
