@@ -12,7 +12,7 @@ tags: [progress, devlog, gamedev]
 I have been bitten by the asset-making bug and I can't stop myself. After making various tilesets and expanding my sprite sheet for my player template, I kept plowing ahead and made some more. I began with a simple enemy—one that everyone is familiar with—but I didn’t want it to be just another plain Jane creature the player smacks around and forgets about. I looked for inspiration with a quick Google search but nothing quite appealed to me. So I decided to experiment in [Aseprite](https://www.aseprite.org/) and see what I could come up with <img src="/assets/images/giga_crab.png" alt="giga_bruh" width="32" height="32" />. 
 
 <p style="text-align: center;">
-  <img src="/assets/images/slime.gif" alt="idle slime" width="100" height="100" style="margin-right: 20px;" /><img src="/assets/images/slimeplode.gif" alt="exploding slime" width="100" height="100" style="margin-right: 20px;" /><img src="/assets/images/mana.gif" alt="floating mana essence" width="100" height="100" />
+  <img src="/assets/images/slime.gif" alt="idle slime" width="100" height="100" style="margin-right: 20px;" /><img src="/assets/images/slimeplode.gif" alt="exploding slime" width="100" height="100" style="margin-right: 20px;" /><img src="/assets/images/mana.gif" alt="floating mana essence" width="58" height="100" />
 </p>
 
 I think they turned out really well, especially the mana essence that will eventually drop from their mangled corpses <img src="/assets/images/doom_crab.png" alt="doom_bruh" width="32" height="32" />. 
