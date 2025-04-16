@@ -2,7 +2,6 @@
 title: "Making Assets"
 author: Zilharr
 layout: single
-image: /assets/images/bruhcrab.png
 excerpt: "A short reflection on the early stages of creating art assets for my game."
 categories: [blog, gamedev]
 tags: [progress, devlog, gamedev]
@@ -42,7 +41,7 @@ I ventured on to making Tilesets with common landscapes like dirt and grass. By 
 All-in-all it came out pretty good considering I haven't been doing this seriously for very long <img src="/assets/images/crab skurred_r.png" alt="crab skurred" width="32" height="32" />  <img src="/assets/images/crab skurred.png" alt="crab skurred right" width="32" height="32" />.
 
 <p style="text-align: center;">
-    <img src="/assets/images/2025_04_08_16_45_11_in_game.png" alt="player sprite sheet with various defined directions" width="480" height="256" />
+    <img src="/assets/images/2025_04_08_16_45_11_in_game.png" alt="in-game screenshot of the player on the map" width="480" height="256" />
 </p>
 
 ### <img src="/assets/images/giga_crab.png" alt="giga crab" width="32" height="32" />  *Conclusion*
